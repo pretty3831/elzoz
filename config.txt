@@ -1,5 +1,5 @@
-token=NTI0ODM5Mzc3MjUyMjUzNjk2.DyCvLg.14UR2io_QTJVKoRqF-_fgD1uWvo
+token=NTM2OTc5NTc1NDQ4NjY2MTE0.DyelIA.btFWlMr2LdJlwUyyECkH7X4ipcY
 owner=433198762706599936
-prefix=#
+prefix=z
 stayinchannel=true
 songinstatus=true 
